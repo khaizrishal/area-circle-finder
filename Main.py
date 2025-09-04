@@ -1,5 +1,5 @@
 import math
-pi = math.pi # All code made by Joel Robinson
+pi = math.pi # All code made by Joel Robinson or ThatOneDev-studio
 dia = float(input("What is the diameter? ")) 
 rad = dia / 2
 radtwo = rad * rad
