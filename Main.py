@@ -27,7 +27,6 @@ radius_entry = tk.Entry(root)
 radius_entry.pack()
 
 # Calculate button
-
 tk.Button(root, text="Calculate Area", command=calculate_area).pack(pady=10)
 
 # Result label
